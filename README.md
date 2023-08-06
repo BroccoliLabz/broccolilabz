@@ -1,7 +1,5 @@
 ## Broccoli Labz
 
-![BroccoliLabz](https://broccolilabz.web.app/images/broccolilabz.png)
-
 Building sites from scratch using the newest web tecnologies.
 
 ### Installation
@@ -14,4 +12,4 @@ You can check out [Our Repositories](https://github.com/BroccoliLabz?tab=reposit
 
 ### Optimized for Firebase deployment
 
-[Firebase Next.js Deployment](https://firebase.google.com/docs/hosting/frameworks/nextjs) for more details.
+Visit [Firebase Next.js Deployment](https://firebase.google.com/docs/hosting/frameworks/nextjs) for more details.
