@@ -21,7 +21,7 @@ export default function Install() {
           <img
             className={styles.logo}
             src='images/repocopy.png'
-            alt='BroccoliLabz Logo'
+            alt='ProjectPage'
             width={620}
             height={300}
           />
@@ -43,7 +43,7 @@ export default function Install() {
           <img
             className={styles.logo}
             src='images/npmproject.png'
-            alt='BroccoliLabz Logo'
+            alt='command'
             width={620}
             height={200}
           />
