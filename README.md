@@ -2,10 +2,13 @@
 
 Building sites from scratch using the newest web technologies.
 
-:heavy_plus_sign: ReactJs
-:heavy_plus_sign: Next.js
-:heavy_plus_sign: PHP
-:heavy_plus_sign: Sass
+> :heavy_plus_sign: ReactJs
+
+> :heavy_plus_sign: Next.js
+
+> :heavy_plus_sign: PHP
+
+> :heavy_plus_sign: Sass
 
 ## Templates
 
