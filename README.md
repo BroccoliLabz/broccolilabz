@@ -1,6 +1,6 @@
 # Broccoli Labz
 
-Building sites from scratch using the newest web tecnologies.
+Building sites from scratch using the newest web technologies.
 
 ## Templates
 
