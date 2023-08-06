@@ -2,13 +2,13 @@
 
 Building sites from scratch using the newest web technologies.
 
-> :heavy_plus_sign: ReactJs
+:small_blue_diamond: ReactJs
 
-> :heavy_plus_sign: Next.js
+:small_blue_diamond: Next.js
 
-> :heavy_plus_sign: PHP
+:small_blue_diamond: PHP
 
-> :heavy_plus_sign: Sass
+:small_blue_diamond: Sass
 
 ## Templates
 
@@ -22,6 +22,8 @@ You can check out [Our Repositories](https://github.com/BroccoliLabz?tab=reposit
 
 Visit [Firebase Next.js Deployment](https://firebase.google.com/docs/hosting/frameworks/nextjs) for more details.
 
-> Made in Saudi 🇸🇦
+> Made in Saudi :saudi_arabia:
 
 **_ BroccoliLabz _**
+
+:trollface:
