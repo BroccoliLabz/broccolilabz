@@ -1,6 +1,8 @@
 ## Broccoli Labz
 
-A simple Next.js built using a simplified template
+![BroccoliLabz](https://broccolilabz.web.app/images/broccolilabz.png)
+
+Building sites from scratch using the newest web tecnologies.
 
 ### Installation
 
