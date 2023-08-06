@@ -2,13 +2,13 @@
 
 Building sites from scratch using the newest web technologies.
 
-:small_blue_diamond: ReactJs
+:broccoli: ReactJs
 
-:small_blue_diamond: Next.js
+:broccoli: Next.js
 
-:small_blue_diamond: PHP
+:broccoli: PHP
 
-:small_blue_diamond: Sass
+:broccoli: Sass
 
 ## Templates
 
