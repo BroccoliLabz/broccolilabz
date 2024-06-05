@@ -16,7 +16,7 @@ You can check out [Our Repositories](https://github.com/BroccoliLabz?tab=reposit
 
 ## Installation
 
-[Installation Page](https://labz.broccolibusiness.com/install)
+Follow readmw files in repositories.
 
 ## Optimized for Firebase deployment
 
